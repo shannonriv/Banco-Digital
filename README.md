@@ -1,4 +1,4 @@
-#Banco del País: 100% digital
+# Banco del País: 100% digital
 
 ## Reto:
 
@@ -177,5 +177,45 @@ El problema principal es hacer un banco 100% digital, en ese sentido, se convert
 * Ver tutoriales de las operaciones (en todas las operaciones).
 
 #### Content Prototyping
+
+
+#### Paper Prototyping
+
+![Con titulo](assets/images/flujo1.jpeg "research")
+![Con titulo](assets/images/flujo2.jpeg "research")
+![Con titulo](assets/images/flujo3.jpeg "research")
+![Con titulo](assets/images/flujo4.jpeg "research")
+![Con titulo](assets/images/flujo5.jpeg "research")
+![Con titulo](assets/images/flujo6.jpeg "research")
+![Con titulo](assets/images/flujo7.jpeg "research")
+
+#### Storytelling
+
+
+**Feedbacks**
+
+* Usuaria 1: "Es amigable y fácil de usar pero deben agregarle un menú porque regresar tantas veces hacia atrás es cansado"
+
+*Usuario 2: "Me agrada no tener que usar token y usar mi huella digital para poder confirmar mis transacciones"
+
+#### Prototipo de Alta Fidelidad V1.0
+
+Después de los feedbacks, se implementaron esas mejoras y se creo el prototipo de alta fidelidad: http://bit.ly/2HotLVp
+
+![Con titulo](assets/images/prototipo1.PNG "research")
+
+**Feedbacks**
+1. Falla en el botón de retroceder.
+2. Es bastante intuitivo y user friendly.
+3. Es sencilla de usar, me sentí confiado y seguro para realizar mis operaciones gracias al Touch ID y el sms.
+4. No podía elegir la opción de DNI después de elegir Carné de extranjería.
+5. Los colores no son llamativos para interactuar con la aplicación.
+
+#### Prototipo de Alta Fidelidad V2.0
+
+Recibido estos feedbacks se realizaron las mejoras respectivas.
+Esta es la última versión de nuestro producto: http://bit.ly/2FzxVt2
+
+![Con titulo](assets/images/prototipo2.PNG "research")
 
 
