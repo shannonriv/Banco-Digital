@@ -178,6 +178,81 @@ El problema principal es hacer un banco 100% digital, en ese sentido, se convert
 
 #### Content Prototyping
 
+Banco del País
+ 
+¡Hola, bienvenido a Banco del País. Para brindarte una experiencia elige una acción! 
+
+1. Tengo una cuenta
+2. Quiero abrir una cuenta
+3. Quiero ser cliente
+
+(​Elige: "Opción 1" ​ )
+
+Por favor, selecciona el tipo de documento de identidad e ingresa el número de tu documento.
+
+1. DNI
+2. CE
+
+(​Elige: "Opción 1" ​ y lo llena)
+
+1. DNI-76127401
+
+(Click en ingresar)
+
+Genial, ahora ¿Qué deseas realizar?  
+
+1. Ver saldos y estados de cuenta.
+2. Abrir una cuenta.
+3. Transferencias.
+4. Pagar servicios.
+5. Dudas y reclamos.
+6. Operaciones con tarjetas.
+
+(​Elige: "Opción 3")
+
+Existen 4 formas de realizar transferencias, ¿cuál realizarás hoy?
+
+1. A una de mis cuentas.
+2. A cuentas de terceros.
+3. A otros bancos.
+4. A una persona sin tarjeta.
+
+(​Elige: "Opción 4")
+
+Selecciona la cuenta de origen de donde se descontará el monto por favor
+
+1. Cuenta ahorros soles.
+2. Cuenta ahorros dólares.
+
+(​Elige: "Opción 1")
+
+Ahora ingresa el monto que quieres transferir: 50 soles.
+
+Por favor ingresa el número de DNI de la persona a recibir el dinero y su número de celular: 02038786, 944777545.
+
+¿Deseas enviar un mail de constancia de trasnferencia? (opcional), no.
+
+¿Cómo deseas confirmar tu trasnferencia?
+
+1. SMS
+2. Touch ID
+
+(​Elige: "Opción 2")
+
+Perfecto, coloca tu dedo para escanear tu huella...
+
+Verificando...
+Validando...
+
+¡Listo! tu transferencia se ha realizado con éxito. ¿Qué deseas hacer ahora?
+
+1. Ver saldo.
+2. Realizar otra transferencia.
+3. Salir
+
+(​Elige: "Opción 3")
+
+¡Gracias!
 
 #### Paper Prototyping
 
@@ -191,12 +266,20 @@ El problema principal es hacer un banco 100% digital, en ese sentido, se convert
 
 #### Storytelling
 
+Giuliana, es una joven de 23 años que desde pequeña ha interactuado con la tecnología. A sus 23 años, ya es una joven graduada de Diseño Gráfico y está planeando estudiar muchas cosas más. 
+
+Aunque ama su trabajo en Amable la rutina la deja cansada, pero sobretodo, durante el día no tiene tiempo para acercarse a un banco si es que tiene un reclamo, desea hacer una trasnferencia o simplemente crear una cuenta. Siempre dice: "el sábado lo hago" porque sabe que entre semana es imposible,lamentablemente los sábados tampoco puede porque tiene que ir a trabajar y cuando sale del trabajo ya los bancos están cerrados. 
+
+Un día, navegando por la web, descubrió la publicidad del Banco del País, decidió aventurarse y descubrió que este banco y su nueva app móvil le ofrecen lo que ella ha estado buscando con la seguridad necesaria para no tener que preocuparse por algún problema.
+
+Giuliana ahora está más contenta porque cada vez que alguien le dice "qué problema esto de ir al banco", les cuenta sobre el Banco del País y en cómo ella dejó de preocuparse por ir al banco.
+
 
 **Feedbacks**
 
 * Usuaria 1: "Es amigable y fácil de usar pero deben agregarle un menú porque regresar tantas veces hacia atrás es cansado"
 
-*Usuario 2: "Me agrada no tener que usar token y usar mi huella digital para poder confirmar mis transacciones"
+* Usuario 2: "Me agrada no tener que usar token y usar mi huella digital para poder confirmar mis transacciones"
 
 #### Prototipo de Alta Fidelidad V1.0
 
