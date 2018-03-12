@@ -77,11 +77,26 @@ Al incremento de la penetración en el segmento de los millennials y por ende, e
 
 #### Research
 
+Se realizaron encuestas (http://bit.ly/2FexMLi) con las siguientes pregutnas y resultados:
 
+![Con titulo](assets/images/form1.PNG "research")
+![Con titulo](assets/images/form2.PNG "research")
+![Con titulo](assets/images/form3.PNG "research")
+![Con titulo](assets/images/form4.PNG "research")
+![Con titulo](assets/images/edad.PNG "research")
+![Con titulo](assets/images/edad2.PNG "research")
+![Con titulo](assets/images/edad3.PNG "research")
+![Con titulo](assets/images/edad4.PNG "research")
+![Con titulo](assets/images/edad5.PNG "research")
+![Con titulo](assets/images/edad6.PNG "research")
+![Con titulo](assets/images/edad7.PNG "research")
+![Con titulo](assets/images/edad8.PNG "research")
 
 ### AFFINITY MAP
 
-#### Temas encontrados
+![Con titulo](assets/images/aff.jpeg "research")
+
+ **Temas encontrados**
 
 * Ocupación
 * Uso de tarjeta de débito
