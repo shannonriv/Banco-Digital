@@ -1,4 +1,16 @@
-# Banco del País: 100% digital
+# Banco Digital
+
+Banco Digital es una aplicación móvil del Banco del País cuyo propósito es ser un banco 100% digital para millenials. 
+
+![banco-vista-previa](https://user-images.githubusercontent.com/32301245/38391542-1f9d647c-38ea-11e8-9630-27bd66baf142.png)
+
+### Desarrollado para
+
+* [Laboratoria](http://talento.laboratoria.la/)
+
+***
+
+## **Banco del País: 100% digital**
 
 ## Reto:
 
