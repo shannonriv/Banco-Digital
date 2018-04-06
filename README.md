@@ -145,17 +145,7 @@ El problema principal es hacer un banco 100% digital, en ese sentido, se convert
 
 ### User persona primario
 
-**Nombre:**  Giuliana Obregón. 
-
-**Edad:** 23.
-
-**Género:** femenino.
-
-**Profesión:** Diseñadora Gráfica.
-
-**Lugar de residencia:** Magdalena del Mar.
-
-**Escenario:**  Giuliana es una diseñadora gráfica sin hijos que trabaja en Amable y que por motivos de trabajo no tiene tanto tiempo. Para simplificar su día a día usa aplicativos móviles. 
+![user-persona-primary](assets/images/user-persona-banco.png)
 
 ### Problem statements
 
